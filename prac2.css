@@ -1,0 +1,16 @@
+h1{font-family: sans-serif}
+h2{text-align:left;font-family: sans-serif}
+h3{color:rgba(0,0,139,80%);}
+a{color:darkgreen}
+p{font-family: serif}
+pre{font-family: monospace; font-size:100%}
+pre.transparent-text{color:rgba(0,0,0,50%)}
+span.a{text-decoration:line-through;color:gray}
+span.b{display:inline;background-color:pink;color:darkblue}
+body#question4{background-image: url(cross.png);background-color:#DCF5F5;background-position:top;background-repeat:repeat}
+div#content{background-color:white}
+span.blue{color:blue}
+span.fancy{font-family: cursive}
+span.both{color: blue;font-family: cursive}
+div#border{background-color:white;border-radius: 8px;border: 1px darkgrey}
+span.red-border{border: red; border-style:solid}
